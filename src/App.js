@@ -4,7 +4,11 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-    React actions
+      <header className="App-header">
+       
+        <h1> TESTING GITHUB ACTIONS WITH REACT </h1>        
+       
+      </header>
     </div>
   );
 }
