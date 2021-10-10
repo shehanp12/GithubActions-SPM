@@ -1,7 +1,7 @@
 import "./App.css";
-
+import Button from "@mui/material/Button";
 function App() {
-  return <div className="App">Hello World</div>;
+  return <Button variant="contained">Hello World</Button>;
 }
 
 export default App;
